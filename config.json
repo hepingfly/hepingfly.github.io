@@ -1,6 +1,10 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"和平自留地",
+    "subTitle":"如果互联网崩塌，希望这里能留下一点我曾经来过的痕迹",
+    "avatarUrl":"https://shp-selfmedia-1257820375.cos.ap-shanghai.myqcloud.com/%E6%B2%88%E5%92%8C%E5%B9%B3%E5%A4%B4%E5%83%8F.PNG",
+    "GMEEK_VERSION":"last",
+    "startSite":"06/24/2024",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "bottomText":"转载请注明出处"
 }
