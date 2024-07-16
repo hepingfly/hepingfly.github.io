@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>打赏页面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        .qr-code {
+            max-width: 100%;
+            height: auto;
+        }
+        .qr-container {
+            margin: 20px 0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>感谢您的支持</h1>
+        <p>请使用微信或支付宝扫描以下二维码进行打赏：</p>
+        <div class="qr-container">
+            <h2>微信收款码</h2>
+            <img src="https://cdn.jsdelivr.net/gh/hepingfly/images@main/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.JPG" alt="微信收款码" class="qr-code">
+        </div>
+        <div class="qr-container">
+            <h2>支付宝收款码</h2>
+            <img src="https://cdn.jsdelivr.net/gh/hepingfly/images@main/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" alt="支付宝收款码" class="qr-code">
+        </div>
+    </div>
+</body>
+</html>
