@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     .toc {
         position: fixed;
         top: 130px;
-        left: 50%;
+        left: 70%;
         transform: translateX(-50%);
         width: 200px;
         border: 1px solid #e1e4e8;
