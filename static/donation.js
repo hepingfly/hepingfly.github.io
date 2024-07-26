@@ -26,9 +26,9 @@ document.addEventListener("DOMContentLoaded", function() {
             margin-bottom: 10px;
         }
         .donation-container img {
-            width: 150px;
-            height: 150px;
-            margin: 10px;
+            width: 300px;
+            height: 300px;
+            margin: 20px;
         }
         .donation-button {
             background-color: #4CAF50;
