@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     // 创建打赏按钮和文本的HTML结构
     const buttonAndTextHtml = `
-<button id="donation-button" class="donation-button">打赏</button>
+<button id="donation-button" class="donation-button">赞赏</button>
 <div id="donation-text" style="text-align: center; margin: 10px auto;">
     <p>感谢您的支持！</p>
 </div>
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
             margin: 20px;
         }
         .donation-button {
-            background-color: #4CAF50;
+            background-color: #ee474f;
             color: white;
             padding: 10px 20px;
             border: none;
